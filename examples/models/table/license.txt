@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pool Table
+* source:	https://sketchfab.com/3d-models/pool-table-fdacab7310cc4ad7811cb7eff95f486b
+* author:	Spentza_93 (https://sketchfab.com/Spentza93)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pool Table" (https://sketchfab.com/3d-models/pool-table-fdacab7310cc4ad7811cb7eff95f486b) by Spentza_93 (https://sketchfab.com/Spentza93) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
